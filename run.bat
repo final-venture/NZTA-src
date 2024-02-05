@@ -1,0 +1,1 @@
+"c:/Users/23856/Desktop/NZTA-SCRAPER/.venv/Scripts/python.exe" "c:/Users/23856/Desktop/NZTA-SCRAPER/main.py"
